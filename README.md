@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferrea
 - 👀 I’m interested in robotics and game development
-- 🌱 I’m currently learning C++ and Node.js
+- 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
